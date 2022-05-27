@@ -15,7 +15,7 @@ class Array
 			arr[i]=sc.nextInt();
 		}
 		
-		System.out.println("Display the Array")
+		System.out.println("Display the Array  /////")
 		for(int i=0;i<n;i++)
 		{
 			System.out.print(arr[i]+" ");
